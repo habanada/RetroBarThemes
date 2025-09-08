@@ -20,18 +20,18 @@
     <x:Double x:Key="TaskbarWidth">93</x:Double>
 
 <!-- Start Button -->
-    <SolidColorBrush x:Key="ButtonFace" Color="#2b2b2b" />
-    <SolidColorBrush x:Key="ButtonBorder" Color="#303030" />
-<SolidColorBrush x:Key="ButtonInnerHighlight" Color="#404040" />
-<SolidColorBrush x:Key="ButtonLight" Color="#505050" />
-<SolidColorBrush x:Key="ButtonShadow" Color="#707070" />
-<SolidColorBrush x:Key="ButtonDarkShadow" Color="#000000" />
 
+
+
+    <!-- Buttons (Window Controls etc.) -->
+    <SolidColorBrush x:Key="ButtonFace" Color="#2b2b2b" />
+    <SolidColorBrush x:Key="ButtonBorder" Color="#707070" />
     <SolidColorBrush x:Key="ButtonForeground" Color="#FFFFFF" />
     <SolidColorBrush x:Key="ButtonHoverBackground" Color="#404040" />
     <SolidColorBrush x:Key="ButtonPressedBackground" Color="#004080" />
     <SolidColorBrush x:Key="ButtonPressedForeground" Color="#FFFFFF" />
 
+  
     <!-- Arbeitsbereich -->
     <SolidColorBrush x:Key="AppWorkspace" Color="#252525" />
     <SolidColorBrush x:Key="GrayText" Color="#888888" />
